@@ -1,2 +1,2 @@
-# safemoon
+# itg-token
 sampleerc20
